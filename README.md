@@ -1,4 +1,4 @@
-Production Line Efficiency Dashboard – Tata Motors (OEE Analysis)
+# Production Line Efficiency Dashboard – Tata Motors (OEE Analysis)
 This project presents a real-world manufacturing analytics dashboard built using Power BI and SQL, focusing on Overall Equipment Effectiveness (OEE). It analyzes key metrics across production lines to uncover operational inefficiencies and improve manufacturing performance.
 
 🧠 Objective
@@ -127,5 +127,5 @@ If you'd like to connect, collaborate, or offer feedback:
 
 🔗 LinkedIn: https://www.linkedin.com/in/shivam-kaushik-856431228/
 
-📁 GitHub: 
+📁 GitHub: https://github.com/ShivamKaushik-07
 
